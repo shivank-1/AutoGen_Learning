@@ -1,0 +1,3 @@
+# Install necessary Python packages
+pip install -qqq matplotlib yfinance
+pip install pandas
